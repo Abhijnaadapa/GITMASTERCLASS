@@ -1,5 +1,5 @@
 
 #To ignore folder
-text/*.text
+text/*.txt
 #to ignore file
 /new.txt
